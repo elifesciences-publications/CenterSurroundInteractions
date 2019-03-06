@@ -1,3 +1,7 @@
+
+
+### This code is associated with the paper from Turner et al., "Receptive field center-surround interactions mediate context-dependent spatial contrast encoding in the retina". eLife, 2018. http://dx.doi.org/10.7554/eLife.38841
+
 # CenterSurroundInteractions
 Analysis and modeling code for "Receptive field center-surround interactions mediate context-dependent spatial contrast encoding in the retina"
 
